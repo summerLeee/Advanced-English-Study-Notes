@@ -1,2 +1,2 @@
 # Advanced-English-Study-Notes
-英语学习笔记
+#This is just a small project to store my English Study Notes
